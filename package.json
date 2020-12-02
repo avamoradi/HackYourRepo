@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d hackyourrepo"
+    "deploy": "gh-pages -d App"
   },
   "repository": {
     "type": "git",
